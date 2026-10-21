@@ -20,7 +20,11 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 <kbd>Ctrl</kbd>
 ```
 <!-- konec bloka kode -->
-
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 
+- Skok na začetek vrstice: <kbd>Home</kbd> 
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> 
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> 
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 <!-- 2. nivojski razdelek -->
 ## Domača naloga
 
